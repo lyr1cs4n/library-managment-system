@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1698248307 source:h:\uni\uni 3\data structure\projects\actual first project\main.cpp
+	<iostream>
+	"container.h"
+	"library.h"
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<conio.h>
+	<iomanip>
+	<iostream>
+	<windows.h>
+
+1698244227 h:\uni\uni 3\data structure\projects\actual first project\include\container.h
+	<iostream>
+	<algorithm>
+	<string>
+
+1698245284 h:\uni\uni 3\data structure\projects\actual first project\include\library.h
+	"container.h"
+	<string>
+
+1698247826 source:h:\uni\uni 3\data structure\projects\actual first project\src\container.cpp
+	"container.h"
+	<vector>
+	<iostream>
+
+1698248071 source:h:\uni\uni 3\data structure\projects\actual first project\src\library.cpp
+	"library.h"
+	"container.cpp"
+	<iostream>
+	<algorithm>
+
+1698247826 h:\uni\uni 3\data structure\projects\actual first project\src\container.cpp
+	"container.h"
+	<vector>
+	<iostream>
+
+1698244707 source:h:\uni\uni 3\data structure\projects\actual first project\actual first project\main.cpp
+	<iostream>
+	"container.h"
+	"library.h"
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<conio.h>
+	<iomanip>
+	<iostream>
+	<windows.h>
+
+1698240627 h:\uni\uni 3\data structure\projects\actual first project\actual first project\include\container.h
+	<iostream>
+	<algorithm>
+	<string>
+
+1698241684 h:\uni\uni 3\data structure\projects\actual first project\actual first project\include\library.h
+	"container.h"
+	<string>
+
+1698244226 source:h:\uni\uni 3\data structure\projects\actual first project\actual first project\src\container.cpp
+	"container.h"
+	<vector>
+	<iostream>
+
+1698244767 source:h:\uni\uni 3\data structure\projects\actual first project\actual first project\src\library.cpp
+	"library.h"
+	"container.cpp"
+	<iostream>
+	<algorithm>
+
+1698244226 h:\uni\uni 3\data structure\projects\actual first project\actual first project\src\container.cpp
+	"container.h"
+	<vector>
+	<iostream>
+
+1698244707 source:h:\uni\uni 3\data structure\projects\actual first project\first project\main.cpp
+	<iostream>
+	"container.h"
+	"library.h"
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<conio.h>
+	<iomanip>
+	<iostream>
+	<windows.h>
+
+1698240627 h:\uni\uni 3\data structure\projects\actual first project\first project\include\container.h
+	<iostream>
+	<algorithm>
+	<string>
+
+1698241684 h:\uni\uni 3\data structure\projects\actual first project\first project\include\library.h
+	"container.h"
+	<string>
+
+1698244226 source:h:\uni\uni 3\data structure\projects\actual first project\first project\src\container.cpp
+	"container.h"
+	<vector>
+	<iostream>
+
+1698244767 source:h:\uni\uni 3\data structure\projects\actual first project\first project\src\library.cpp
+	"library.h"
+	"container.cpp"
+	<iostream>
+	<algorithm>
+
+1698244226 h:\uni\uni 3\data structure\projects\actual first project\first project\src\container.cpp
+	"container.h"
+	<vector>
+	<iostream>
+
